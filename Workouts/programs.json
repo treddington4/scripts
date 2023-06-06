@@ -1,0 +1,41 @@
+{
+    "Lean": {
+        "weeks": {
+            "1": ["Accelerator", "The Warrior", "X3 Yoga", "CVX","Isometrix", "Agility X", "Dynamix"],
+            "2": ["Accelerator", "The Warrior", "X3 Yoga", "CVX","Isometrix", "Agility X", "Dynamix"],
+            "3": ["Accelerator", "The Warrior", "X3 Yoga", "CVX","Isometrix", "Agility X", "Dynamix"],
+            "4": ["Isometrix","Dynamix","Accelerator", "Pilates X","Agility X","X3 Yoga",  "Dynamix"],
+            "5": ["Triometrics", "The Warrior", "X3 Yoga", "MMX", "Incinerator", "CVX", "Dynamix"],
+            "6": ["Triometrics", "The Warrior", "X3 Yoga", "MMX", "Incinerator", "CVX", "Dynamix"],
+            "7": ["Triometrics", "The Warrior", "X3 Yoga", "MMX", "Incinerator", "CVX", "Dynamix"],
+            "8": ["Isometrix","Dynamix","Accelerator", "Pilates X","Agility X", "X3 Yoga", "Dynamix"],
+            "9": ["Decelerator", "MMX", "Eccentric Lower", "X3 Yoga", "Triometrics", "Eccentric Upper", "Dynamix"],
+            "10": ["MMX", "Decelerator", "Triometrics", "Pilates X", "Decelerator", "CVX", "Dynamix"],
+            "11": ["Decelerator", "MMX", "Eccentric Lower", "X3 Yoga", "Triometrics", "Eccentric Upper", "Dynamix"],
+            "12": ["MMX", "Decelerator", "Triometrics", "Pilates X", "Decelerator", "CVX", "Dynamix"],
+            "13": ["Isometrix", "Accelerator", "Pilates X", "X3 Yoga", "Dynamix", "Dynamix", "CELEBRATE!!!"]
+        }
+    },
+    "Workouts": {
+        "Accelerator": {"Minutes": "30", "Type": "Cardio", "Equipment": []},
+        "Agility X": {"Minutes": "30m", "Type": "Cardio", "Equipment": ["Tape"]},
+        "CVX": {"Minutes": "35", "Type": "Cardio", "Equipment": ["Dumbbell or Ball 0-12lbs"], "Link":"https://www.beachbodyondemand.com/programs/p90x3/workouts?videoGuid=PX315771B02"},
+        "Cold Start": {"Minutes": "12m", "Type": "Mobility & Flexibility", "Equipment": ["Sturdy Chair*", "Yoga Mat*"]},
+        "Complex Lower": {"Minutes": "30m", "Type": "Athletic Training", "Equipment": ["Dumbbells or Resistance Bands"]},
+        "Complex Upper": {"Minutes": "30m", "Type": "Athletic Training", "Equipment": ["Dumbbells or Resistance Bands", "Chin-Up Bar or Bands with Door Attachment", "Chin-Up Max*"]},
+        "Triometrics": {"Minutes": "30", "Type": "Cardio", "Equipment":[] },
+        "Decelerator": {"Minutes": "30", "Type": "Bootcamp", "Equipment": []},
+        "Dynamix": {"Minutes": "30", "Type": "Mobility & Flexibility", "Equipment": ["Yoga Mat*"]},
+        "Incinerator": {"Minutes": "30", "Type": "Muscle Building", "Equipment": ["Dumbbells or Resistance Bands", "Chin-Up Bar or Bands with Door Attachment", "Chin-Up Max*", "Push-Up Stands*"]},
+        "Isometrix": {"Minutes": "30", "Type": "Strength", "Equipment": ["Yoga Mat*"]},
+        "MMX": {"Minutes": "30", "Type": "MMA Training", "Equipment": []},
+        "Pilates X": {"Minutes": "30m", "Type": "Pilates", "Equipment": ["Yoga Mat"]},
+        "The Challenge": {"Minutes": "30m", "Type": "Muscle Building", "Equipment": ["Chin-Up Bar or Bands with Door Attachment", "Chin-Up Max*", "Push-Up Stands*"]},
+        "The Warrior": {"Minutes": "30m", "Type": "Bootcamp", "Equipment": ["Push-Up Stands*"]},
+        "Total Synergistics": {"Minutes": "30m", "Type": "Muscle Building", "Equipment": ["Dumbbells", "Resistance Bands", "Chin-Up Bar or Bands with Door Attachment", "Chin-Up Max*", "Yoga Mat*"]},
+        "X3 Ab Ripper": {"Minutes": "15m", "Type": "Core", "Equipment": ["Dumbbells*", "Yoga Mat*"]},
+        "X3 Yoga": {"Minutes": "30m", "Type": "Yoga", "Equipment": ["Yoga Mat, Yoga Block*"]},
+        "Eccentric Upper":{"Minutes": "30m", "Type": "Muscle Building", "Equipment": ["Dumbbells or Resistance Bands", "Chin-Up Bar or Bands with Door Attachment", "Chin-Up Max*", "Push-Up Stands*"]},
+        "Eccentric Lower":{"Minutes": "30m", "Type": "Muscle Building", "Equipment": ["Dumbbells or Resistance Bands", "Sturdy Chair", "Push-Up Stands*"]}
+    }
+}
