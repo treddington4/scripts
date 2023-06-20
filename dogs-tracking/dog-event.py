@@ -77,7 +77,9 @@ def main(input_file):
         "Pee":"orange", 
         "Remove water":"blue", 
         "Food":"green",
-        "Poop":"brown"
+        "Poop":"brown",
+        "Anti-diarrhea tablet":"red",
+        "Medicine":"pink",
         }
 
     # plot the data
